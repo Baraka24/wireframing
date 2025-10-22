@@ -40,3 +40,22 @@ Wireframing is the practice of creating low-fidelity layouts that map the struct
 - Maps interactions, controls, and states (hover, focus, disabled, loading, empty, error).
 - Contributes by setting expectations for behavior and edge cases before visual design.
 - Example: Inline edit in tables with validation; optimistic save with a toast; an empty state offering “Try a sample dataset” to unblock first-time users.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- Simple sketches or basic digital layouts using boxes, lines, and placeholder text
+- Focus on structure, layout, and flow without detail or polish
+- Typically used during early ideation, brainstorming, and initial stakeholder alignment
+- Fast to create and easy to iterate; encourage feedback on concepts rather than aesthetics
+- Example tools: pen and paper, whiteboards, or simple diagramming software
+
+### High-Fidelity Wireframes
+- More detailed and refined, closer to final design with accurate spacing, typography hierarchy, and component representations
+- May include realistic content, more precise interactions, and multiple states
+- Typically used after validation of core concepts, during handoff preparation or usability testing
+- Take longer to produce but provide clearer implementation guidance
+- Example tools: Figma, Sketch, Adobe XD with component libraries and design systems
+
+### This Document's Wireframe Type
+The wireframes described in the **Key Elements** section above are **low-fidelity wireframes**. They use simple descriptions, abstract component references (e.g., "KPI cards," "sticky subnav"), and focus on placement and functionality rather than visual polish—making them ideal for early alignment and exploration.
