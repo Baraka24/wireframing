@@ -59,3 +59,30 @@ Wireframing is the practice of creating low-fidelity layouts that map the struct
 
 ### This Document's Wireframe Type
 The wireframes described in the **Key Elements** section above are **low-fidelity wireframes**. They use simple descriptions, abstract component references (e.g., "KPI cards," "sticky subnav"), and focus on placement and functionality rather than visual polish—making them ideal for early alignment and exploration.
+
+## Popular Wireframing Tools
+
+### Figma (Recommended)
+Figma is a cloud-based design and prototyping tool that has become the industry standard for wireframing and collaborative design work.
+
+**Key Features:**
+- Real-time collaboration allowing multiple team members to work simultaneously
+- Browser-based with no installation required; accessible from any device
+- Robust component and design system support for consistency and reusability
+- Built-in prototyping to demonstrate flows and interactions directly in wireframes
+- Version history and branching for tracking iterations and changes
+- Developer handoff features including CSS/code snippets and asset exports
+
+**Why It's Useful for Wireframing:**
+- Speed: Pre-built UI kits and auto-layout streamline low-fidelity creation
+- Collaboration: Stakeholders can comment directly on frames, reducing feedback loops
+- Scalability: Easily transition from low-fidelity sketches to high-fidelity designs in the same file
+- Sharing: Simple link sharing for reviews without requiring software licenses
+- Integration: Connects with tools like Jira, Slack, and FigJam for end-to-end workflow
+
+### Other Tools
+- **Sketch**: Mac-only vector design tool with strong plugin ecosystem; popular before Figma's rise
+- **Adobe XD**: Adobe's design and prototyping platform with Creative Cloud integration
+- **Balsamiq**: Deliberately low-fidelity tool with a hand-drawn aesthetic for rapid sketching
+- **Miro/FigJam**: Collaborative whiteboarding platforms ideal for early ideation and team workshops
+- **Axure RP**: Advanced prototyping tool with conditional logic for complex interaction modeling
