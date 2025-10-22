@@ -18,3 +18,25 @@ Wireframing is the practice of creating low-fidelity layouts that map the struct
 - Information architecture and user flow exploration
 - Prior to high-fidelity design, prototyping, and implementation
 - As a reference during usability testing and refinement
+
+## Key Elements of a Wireframe
+
+### Layout Structure
+- Defines grid, columns, spacing, and breakpoints; establishes visual hierarchy.
+- Contributes by guiding attention and aligning components consistently.
+- Example: A three-column grid with a fixed 240px sidebar keeps filters accessible on desktop; collapses to a drawer on mobile to preserve content space.
+
+### Navigation
+- Specifies global, local, and contextual navigation and their states.
+- Contributes by clarifying paths, reducing backtracking, and surfacing key routes.
+- Example: Top-level tabs for Dashboard, Reports, Settings; breadcrumbs within Reports; a sticky subnav exposing Overview, Trends, Export on long pages.
+
+### Content Placement
+- Positions headlines, primary/secondary content, and metadata using hierarchy.
+- Contributes by prioritizing what users see first and supporting scanning (F/Z patterns).
+- Example: KPI cards above the fold with clear labels; detailed table below; helper text adjacent to form fields to reduce errors.
+
+### Functionality
+- Maps interactions, controls, and states (hover, focus, disabled, loading, empty, error).
+- Contributes by setting expectations for behavior and edge cases before visual design.
+- Example: Inline edit in tables with validation; optimistic save with a toast; an empty state offering “Try a sample dataset” to unblock first-time users.
